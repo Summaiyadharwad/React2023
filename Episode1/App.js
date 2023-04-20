@@ -1,4 +1,4 @@
-const heading = React.createElement("h1", {},"Summaiya Here");
+const heading = React.createElement("h1", {},"Im learning React");
 /**
  * React.createElement-> takes 3 arguments
  *    -> html element
