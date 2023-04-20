@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 const heading = React.createElement(
     "h1",{},
-    "Hello world from React"
+    "Hello Summaiya Dharwad"
     );
     // console.log(heading);
 const root =ReactDOM.createRoot(document.getElementById("root"));
